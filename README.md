@@ -1,4 +1,5 @@
 WordPy - A Wordle-like Game
+
 This repository contains a Python implementation of a word-guessing game, similar to Wordle. The game includes a bot that attempts to guess a hidden five-letter word.
 
 Features
